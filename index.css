@@ -1,30 +1,30 @@
 @font-face {
     font-family: 'SF Compact Rounded';
     font-weight: 300;
-    src: url(./SF-Compact-Rounded-Light.otf);
+    src: url(https://github.com/wayner6/xLog-css/raw/main/SF-Compact-Rounded-Light.otf);
 }
 
 @font-face {
     font-family: 'SF Compact Rounded';
     font-weight: 400;
-    src: url(./SF-Compact-Rounded-Regular.otf);
+    src: url(https://github.com/wayner6/xLog-css/raw/main/SF-Compact-Rounded-Regular.otf);
 }
 
 @font-face {
     font-family: 'SF Compact Rounded';
     font-weight: 500;
-    src: url(./SF-Compact-Rounded-Medium.otf);
+    src: url(https://github.com/wayner6/xLog-css/raw/main/SF-Compact-Rounded-Medium.otf);
 }
 
 @font-face {
     font-family: 'SF Compact Rounded';
     font-weight: 600;
-    src: url(./SF-Compact-Rounded-Semibold.otf);
+    src: url(https://github.com/wayner6/xLog-css/raw/main/SF-Compact-Rounded-Semibold.otf);
 }
 
 @font-face {
   font-family: 'Candyshop';
-  src: url(./Candyshop.otf);
+  src: url(https://github.com/wayner6/xLog-css/raw/main/Candyshop.otf);
   font-display: swap;
 }
 
@@ -33,7 +33,7 @@
   --font-fans: 'SF Compact Rounded','PingFang SC','Microsoft YaHei',Lato,sans-serif;
   --header-height: max(50vh, 400px);
   --banner-bg-color: #fff;
-  cursor: url(./cursor.png), default;
+  cursor: url(https://github.com/wayner6/xLog-css/blob/main/cursor.png?raw=true), default;
 }
 
 /* header overall */
@@ -101,7 +101,7 @@ footer {
 
 footer:before {
     content: ' ';
-    background: url(./footer.png) no-repeat center;
+    background: url(https://github.com/wayner6/xLog-css/blob/main/footer.png?raw=true) no-repeat center;
     height: 368px;
     width: 100%;
     display: block;
